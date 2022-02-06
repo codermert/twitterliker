@@ -11,7 +11,7 @@ Not : Chrome Store'da yayınlamadım
 Bildiğiniz gibi, henüz **Chrome Store** ' da yayınlanmadı, bu yüzden bu uzantıyı zip olarak indirmeniz ve daha sonra bir klasöre ayıklamanız gerekiyor (istediğiniz gibi adlandırabilirsiniz). Şimdi bu 3 basit adımı takip etmeniz gerekecek
 
 
-![merrrrttt](![Ekran Alıntısı](https://user-images.githubusercontent.com/53333294/152674886-fb709e3f-e68b-4211-8e25-b559ad82c276.PNG)
+(![Ekran Alıntısı](https://user-images.githubusercontent.com/53333294/152674886-fb709e3f-e68b-4211-8e25-b559ad82c276.PNG)
 )
 
 
