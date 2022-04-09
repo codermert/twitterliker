@@ -3,7 +3,7 @@
 [![ForTheBadge built-with-love](https://img.shields.io/badge/ask.fm-2B2A29.svg?style=for-the-badge&logo=askfm&logoColor=ee1144)](https://ask.fm/codermertx)
 
 
-Ücretsiz YouTube Downloader!
+Ücretsiz Twitter Liker!
 
 Not : Chrome Store'da yayınlamadım
 
@@ -11,15 +11,14 @@ Not : Chrome Store'da yayınlamadım
 Bildiğiniz gibi, henüz **Chrome Store** ' da yayınlanmadı, bu yüzden bu uzantıyı zip olarak indirmeniz ve daha sonra bir klasöre ayıklamanız gerekiyor (istediğiniz gibi adlandırabilirsiniz). Şimdi bu 3 basit adımı takip etmeniz gerekecek
 
 
-![Screenshot_2022-04-09-10-06-35_1920x1080](https://user-images.githubusercontent.com/53333294/162560980-682e75df-105b-4b1a-ae2e-fade5fa91d2f.png)
-
+![Ekran Alıntısı](https://user-images.githubusercontent.com/53333294/152674886-fb709e3f-e68b-4211-8e25-b559ad82c276.PNG)
 
 
 
 - İlk önce   chrome://extensions/   sayfasına girin 
 - Ardından **Geliştirici Modu**'nu aktif edin
 - Aktif ettikten sonra **Paketlenmemiş öğe yükle** deyin
-- Ve uzantımız hazır , Şimdi uzantımızı açıp YouTube sayfanızdan müzik - video indirebilirsiniz  !
+- Ve uzantımız hazır , Şimdi uzantımızı açıp Twitter anasayfanızı otomatik kaydırarak beğeni akışınızı kontrol edebilirsiniz !
 
 
 ## 💸 Bağış Yap
